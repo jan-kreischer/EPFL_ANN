@@ -1,6 +1,7 @@
 # EPFL Artificial Neural Networks
-## Course Miniproject 02
+(Summer term 2021)
+
+## Course Projects
 by
-### Jan Bauer (18-764-571)
-### Adrien Bertaud (Sciper 324795)
+### Jan Bauer
 
